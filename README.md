@@ -1,4 +1,4 @@
-# 🎥 Responsive Draggable Carousel Slider
+# 🕒 Responsive Analog Clock | HTML, CSS, JavaScript Tutorial
 ### 🚀 Welcome to this exciting tutorial on creating a Responsive Analog Clock using HTML, CSS, and JavaScript! ⏰
 In this step-by-step guide, you'll learn how to design a beautiful and functional analog clock that adapts perfectly to all screen sizes.
 
